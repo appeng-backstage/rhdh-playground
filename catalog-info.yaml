@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "tutorial-backstage-nodejs"
+  name: "RHDH configure dynamic plugins"
   annotations:
     backstage.io/adr-location: docs/adrs
-    github.com/project-slug: sgahlot/backstage-tutorial-nodejs
+    github.com/project-slug: sgahlot/rhdh-playground
     vault.io/secrets-path: janus-idp
 spec:
   type: service
