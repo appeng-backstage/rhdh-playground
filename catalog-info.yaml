@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "tutorial-backstage-nodejs"
+  annotations:
+    backstage.io/adr-location: docs/adrs
+    github.com/project-slug: sgahlot/backstage-tutorial-nodejs
+    vault.io/secrets-path: janus-idp
+spec:
+  type: service
+  owner: Sandip Gahlot
+  lifecycle: experimental
