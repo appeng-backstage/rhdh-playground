@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "rhdh-dynamic-plugins-adr"
   annotations:
-    # backstage.io/adr-location: docs/adrs
+    backstage.io/adr-location: docs/adrs
     # backstage.io/source-location: url:https://github.com/appeng-backstage/rhdh-playground/tree/main
     github.com/project-slug: sgahlot/rhdh-playground
     vault.io/secrets-path: janus-idp
