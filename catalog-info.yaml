@@ -4,7 +4,7 @@ metadata:
   name: "rhdh-dynamic-plugins-adr"
   annotations:
     backstage.io/adr-location: docs/adrs
-    backstage.io/source-location: "url:https://github.com/appeng-backstage/rhdh-playground/"
+    # backstage.io/source-location: "url:https://github.com/appeng-backstage/rhdh-playground/"
     github.com/project-slug: sgahlot/rhdh-playground
     vault.io/secrets-path: janus-idp
 spec:
