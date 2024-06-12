@@ -9,6 +9,6 @@ metadata:
     github.com/project-slug: sgahlot/rhdh-playground
     vault.io/secrets-path: janus-idp
 spec:
-  type: service
+  type: website
   owner: Sandip Gahlot
   lifecycle: experimental
